@@ -7,4 +7,7 @@ package com.yuan;
  * @create: 2022-10-21 18:36
  **/
 public class Main {
+    public static void main(String[] args) {
+
+    }
 }
